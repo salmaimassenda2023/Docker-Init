@@ -1,4 +1,4 @@
-# Projet Student List - Infrastructure Docker
+## Projet Student List - Infrastructure Docker
 ## Membres du groupe
 - Boumour Marwa
 - El mimouni Yosra 
@@ -44,12 +44,12 @@ DOCKER BUILD -t submit api
 ![Capture d'écran du test de l'API](./captures_ecran/3.jpg)
 ET le resultat dans dockker desktop : 
 
-![Capture d'écran du test de l'API](./captures_ecran/4.jpg)
+(captures_ecran/4.jpg)
 
 Exécution du conteneur avec montage du fichier JSON
 ![Capture d'écran du test de l'API](./captures_ecran/5.jpg)
 ET le resultat dans dockker desktop : 
-![Capture d'écran du test de l'API](./captures_ecran/6.jpg)
+![Capture d'écran du test de l'API](captures_ecran/6.jpg)
 
 Après avoir construit l'image, j'ai testé l'API avec la commande suivante :
 ```bash
