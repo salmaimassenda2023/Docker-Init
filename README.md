@@ -1,8 +1,9 @@
-## Projet Student List - Infrastructure Docker
+# Projet Student List - Infrastructure Docker
 ## Membres du groupe
 - Boumour Marwa
 - El mimouni Yosra 
 - Imassenda Salma
+
 ## Introduction
 Ce projet vise à améliorer l'infrastructure d'une application existante appelée "student_list" en utilisant Docker. L'application permet d'afficher une liste d'étudiants avec leur âge et se compose de deux modules : une API REST en Python et une interface web en PHP.
 
@@ -44,12 +45,12 @@ DOCKER BUILD -t submit api
 ![Capture d'écran du test de l'API](./captures_ecran/3.jpg)
 ET le resultat dans dockker desktop : 
 
-(captures_ecran/4.jpg)
+![Capture d'écran du test de l'API](./captures_ecran/4.jpg)
 
 Exécution du conteneur avec montage du fichier JSON
-![Capture d'écran du test de l'API](./captures_ecran/5.jpg)
+![Capture d'écran du test de l'API](captures_ecran/5.jpg)
 ET le resultat dans dockker desktop : 
-![Capture d'écran du test de l'API](captures_ecran/6.jpg)
+![Capture d'écran du test de l'API](./captures_ecran/6.jpg)
 
 Après avoir construit l'image, j'ai testé l'API avec la commande suivante :
 ```bash
