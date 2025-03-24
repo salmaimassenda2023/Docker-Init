@@ -33,7 +33,7 @@ Le Dockerfile pour l'API a été créé avec les spécifications suivantes :
 - Exposition du port 5000 pour l'API
 - Configuration de la commande de démarrage
 
-![Capture d'écran du test de l'API](./captures_ecran/2.jpg)
+![Capture d'écran du test de l'API](https://github.com/salmaimassenda2023/Docker-Init/blob/main/captures_ecran/2.jpg)
 
 ### Construction de l'image Docker de l'API
 
